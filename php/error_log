@@ -1,0 +1,8 @@
+[26-Sep-2017 12:42:53 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/comunicacion1/public_html/mobile/class/db/mysql.php on line 26
+[26-Sep-2017 12:42:53 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/comunicacion1/public_html/mobile/class/db/mysql.php on line 37
+[28-Feb-2018 10:34:01 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/comunicacion1/public_html/mobile/class/db/mysql.php on line 26
+[28-Feb-2018 10:34:01 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/comunicacion1/public_html/mobile/class/db/mysql.php on line 37
+[28-Feb-2018 10:34:59 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/comunicacion1/public_html/mobile/class/db/mysql.php on line 26
+[28-Feb-2018 10:34:59 America/Chicago] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/comunicacion1/public_html/mobile/class/db/mysql.php on line 37
+[12-Mar-2018 10:16:36 America/Bogota] PHP Fatal error:  Call to undefined function uniqueid() in /home/comunicacion1/public_html/mobile/php/forget.password.php on line 16
+[12-Mar-2018 10:17:14 America/Bogota] PHP Fatal error:  Call to undefined function uniqueid() in /home/comunicacion1/public_html/mobile/php/forget.password.php on line 16
